@@ -1,5 +1,6 @@
 # Practica 5
-![Alt text](relative/path/to/img.png?raw=true "Practica 5")
+![GitHub Logo](/img.png)
+Format: ![Alt Text](url)
 
 ```
 'Componentes:'
