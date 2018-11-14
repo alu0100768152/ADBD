@@ -1,8 +1,8 @@
-# Practica 5
+# Práctica 5
 ![GitHub Logo](/img.png)
 
 ```
-'Componentes:'
+Componentes:
                   Iván Josué Borges González
                   Kathrina Arrocha Umpiérrez
                   Óscar Socas González
