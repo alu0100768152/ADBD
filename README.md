@@ -1,6 +1,5 @@
 # Practica 5
 ![GitHub Logo](/img.png)
-Format: ![Alt Text](url)
 
 ```
 'Componentes:'
