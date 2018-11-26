@@ -1,5 +1,5 @@
 # Práctica 5
-![GitHub Logo](/img.png)
+![GitHub Logo](/Practica_5/img.png)
 
 ```
 Componentes:
