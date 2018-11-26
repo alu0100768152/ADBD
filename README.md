@@ -1,5 +1,7 @@
 # Práctica 5
 ![GitHub Logo](/Practica_5/img.png)
+
+# Práctica 7
 ![GitHub Logo](/Practica_7/img.png)
 
 ```
