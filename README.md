@@ -1,3 +1,9 @@
+```
+Componentes:
+                  Iván Josué Borges González
+                  Kathrina Arrocha Umpiérrez
+                  Óscar Socas González
+```
 # Práctica 5
 ![GitHub Logo](/Practica_5/img_5.png)
 
@@ -8,9 +14,4 @@
 ![GitHub Logo](/Practica_8(Triggers)/farmacia.png)
 ![GitHub Logo](/Practica_8(Triggers)/viveros.png)
 
-```
-Componentes:
-                  Iván Josué Borges González
-                  Kathrina Arrocha Umpiérrez
-                  Óscar Socas González
-```
+
